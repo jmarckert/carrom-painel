@@ -336,6 +336,28 @@ function updateCounters() {
   document.getElementById('btnExportCount').textContent = countApproved;
 }
 
+function badgeFamilia(f) {
+  if (f === 'Rodas') return '<span class="badge b-rodas">Rodas</span>';
+  if (f === 'Calotas') return '<span class="badge b-calotas">Calotas</span>';
+  return '<span class="badge b-pecas">Autopeças</span>';
+}
+
+function badgeDecisao(it) {
+  if (!it.compensa_novo) {
+    return '<span class="badge b-err">⛔ Não Compensa Ativar (' + it.decisao + ')</span>';
+  }
+  if (it.decisao === 'criar_novo_recomendado') {
+    return '<span class="badge b-ok">✅ Compensa Novo (Antigo Bloqueado/Defasado)</span>';
+  }
+  if (it.decisao === 'corrigir_atual_ou_novo') {
+    return '<span class="badge b-ok">✅ Compensa (Novo Criado • Antigo Tinha Vendas)</span>';
+  }
+  if (it.decisao === 'atencao_dimensao_me2') {
+    return '<span class="badge b-warn">📏 Compensa c/ Atenção à Caixa (Limite 100cm ME2)</span>';
+  }
+  return '<span class="badge b-purple">🔍 Compensa (Verificar Similar Ativo)</span>';
+}
+
 function toggleItemCheck(oldId, cb) {
   if (cb.checked) {
     approvedMap[oldId] = true;
@@ -519,11 +541,15 @@ function toggleSelectVisible(state) {
   const list = getFilteredItems();
   list.forEach(it => {
     if (it.new_id) {
-      if (state) approvedMap[it.old_id] = true;
-      else delete approvedMap[it.old_id];
+      if (state) {
+        approvedMap[it.old_id] = true;
+        delete editedMap[it.old_id];
+      } else {
+        delete approvedMap[it.old_id];
+      }
     }
   });
-  saveApproved();
+  saveState();
   renderCards();
 }
 
