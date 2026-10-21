@@ -1,0 +1,4037 @@
+[
+  {
+    "id": "MLB2085825672",
+    "titulo": "Roda Ferro Yaris Aro 15",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": {
+      "BRAND": "Toyota",
+      "MODEL": "Yaris",
+      "RIM_DIAMETER": "15 \"",
+      "DISTANCE_BETWEEN_HOLES": "100 mm",
+      "HOLES_NUMBER": "4",
+      "RIM_WIDTH": "5.5 \"",
+      "OFFSET": "45 mm",
+      "RIM_MATERIAL": "Aço",
+      "RIMS_NUMBER": "1"
+    }
+  },
+  {
+    "id": "MLB3401213203",
+    "titulo": "Roda Ferro Renegade Aro 16",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": {
+      "BRAND": "Jeep",
+      "MODEL": "Renegade",
+      "RIM_DIAMETER": "16 \"",
+      "DISTANCE_BETWEEN_HOLES": "110 mm",
+      "HOLES_NUMBER": "5",
+      "RIM_WIDTH": "6.5 \"",
+      "OFFSET": "40 mm",
+      "RIM_MATERIAL": "Aço",
+      "RIMS_NUMBER": "1"
+    }
+  },
+  {
+    "id": "MLB4716175711",
+    "titulo": "Jogo 4 Calotas Tracker Aro 17",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": {
+      "BRAND": "Chevrolet",
+      "MODEL": "Tracker",
+      "WHEEL_COVER_DIAMETER": "17 \"",
+      "CAR_WHEEL_COVER_TYPE": "Completa",
+      "MATERIAL": "Plástico ABS"
+    }
+  },
+  {
+    "id": "MLB5461714360",
+    "titulo": "Jogo 4 Calotas Creta Aro 16",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": {
+      "BRAND": "Hyundai",
+      "MODEL": "Creta",
+      "WHEEL_COVER_DIAMETER": "16 \"",
+      "CAR_WHEEL_COVER_TYPE": "Completa",
+      "MATERIAL": "Plástico ABS"
+    }
+  },
+  {
+    "id": "MLB4652323042",
+    "titulo": "1 Calota Pulse Aro 16 Grafite",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": {
+      "BRAND": "Fiat",
+      "MODEL": "Pulse",
+      "WHEEL_COVER_DIAMETER": "16 \"",
+      "CAR_WHEEL_COVER_TYPE": "Completa",
+      "MATERIAL": "Plástico ABS"
+    }
+  },
+  {
+    "id": "MLB5800241498",
+    "pos": 1,
+    "titulo": "1 (uma) Calota Kicks Original Genuína Nissan Aro 16 1 (peça) Prata",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Nissan"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kicks"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "Nst3292011"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2696662501",
+    "pos": 2,
+    "titulo": "Roda Ferro Original Nissan Kicks Aro 16 March Versa 1 Unidad Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Nissan"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kicks"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "403005RC3E"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3951360961",
+    "pos": 3,
+    "titulo": "1 Roda De Ferro Tracker 2024/25 Aro.17 Original Genuína Gm Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tracker"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "17 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "105 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "38 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3793544817",
+    "pos": 4,
+    "titulo": "1(uma) Calota Original Genuina Gm Nova Tracker 2024/ Aro17 Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tracker"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52168687"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "17 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2853430820",
+    "pos": 5,
+    "titulo": "1 Roda Ferro T Cross Aro 16 Genuína Volks Tirada Carro Zero  Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "T-Cross"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "2gp601025efzz"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "35 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB2077649295",
+    "pos": 6,
+    "titulo": "Riscos/ralados 1 (uma) Calota Kicks Original Nissan Aro 16 Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Nissan"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kicks"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "62403155Ra0E"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2037993252",
+    "pos": 7,
+    "titulo": "C/ Riscos 1 Calota Orig T Cross Sense Genuína Volks Aro 16 Cinza",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "T-Cross"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "2gm601147buwp"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2897172771",
+    "pos": 8,
+    "titulo": "Calota Aro 16 Corolla 15/17 Original Genuína Toyota 1unidade Cinza",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "4260212A00"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5024264164",
+    "pos": 9,
+    "titulo": "1 Roda Ferro Pulse(zero)aro16 Original Genuína Fiat Na Caixa Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Pulse"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "51896234"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "98 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3841513921",
+    "pos": 10,
+    "titulo": "1 (uma) Calota Spin 2024 Mod.2025 Aro 15 Original Genuína Cinza",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Spin"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52172076"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB3624124937",
+    "pos": 11,
+    "titulo": "Roda Ferro Onix 2024 Aro 15  Original 2° Geração 1 Unidade  Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Onix"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52018728"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB2158823766",
+    "pos": 12,
+    "titulo": "1 Unid Roda De Ferro Original Genuína Hyundai Creta Aro 16 Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Creta"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52910-A"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "114.3 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "43 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3557747805",
+    "pos": 14,
+    "titulo": "Roda Ferro Tracker Aro 16 Orig Genuína Chevrolet  1 Unidade Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tracker"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "26214160 527068107"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "105 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "38 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB2085894203",
+    "pos": 16,
+    "titulo": "Roda Corolla De Ferro Aro 16 Original Genuina Toyota (unid) Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "7896532189"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3741680816",
+    "pos": 17,
+    "titulo": "Bom Estado 1 (uma) Calota Fiat Mobi Aro 14 Original Genuína Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Mobi"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "100264357"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB6367956462",
+    "pos": 18,
+    "titulo": "1 Roda Ferro Spin 2024 Em Diante Aro 15 Original Genuína Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Spin"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "26232598"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3624089977",
+    "pos": 19,
+    "titulo": "(1 Unid) Calota Onix 2024 Aro 15 Original Genuína Chevrolet  Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Onix"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52171648"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5507398400",
+    "pos": 21,
+    "titulo": "1 Unidade Riscos/ralados Calota Corolla Aro16 2018 Original Prate",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "42602-02480"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB6625278928",
+    "pos": 24,
+    "titulo": "1 (uma) Calota Mobi Novo 2026 Aro 14 Original Genuína Fiat Grafite",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Mobi"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "Crom113002"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5000948154",
+    "pos": 25,
+    "titulo": "C/ Detalhe De Uso Roda Ferro Sandero Stepway Aro16 Original Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Sandero"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "02053R 403002053R"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB5997636182",
+    "pos": 26,
+    "titulo": "1 Roda De Ferro Do Kardian Aro 16 Original Renault Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kardian"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "F3889"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4208745021",
+    "pos": 27,
+    "titulo": "Jogo Calotas Pampa/corcel/belina/delrey Aro 13 Encaixe Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Ford"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corcel"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "1130Crr"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "13 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5786003112",
+    "pos": 28,
+    "titulo": "1 Roda De Ferro Strada Ranch Aro 16  Original Genuína Fiat Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Strada"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "89411556098"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "98 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "5.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB6201217490",
+    "pos": 29,
+    "titulo": "Jogo Calotas Creta Aro 16 Grafite/preta Original Lançamento Grafite E Preta",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Creta"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "897422466"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2612436369",
+    "pos": 30,
+    "titulo": "1 Uma Calota Gol G3 Parati Santana Aro14 Orig Genuína Volks Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Gol"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "224.459.2C"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4256729267",
+    "pos": 31,
+    "titulo": "(1) Calota Nova Tracker 2025/26 Aro 17 Original Gm 1 Peça Prata",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tracker"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "CN52168687"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "17 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5238729030",
+    "pos": 32,
+    "titulo": "Jogo Calotas Tracker Até 2024 Aro16 Orig Genuína Black Piano Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tracker"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "26218946"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4229165081",
+    "pos": 33,
+    "titulo": "Jg Rodas Original Del Rey Aro13 C/calota 81/84 Ótimo Estado Cromado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Ford"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corcel"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "81EU1007-C"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "13 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "108 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "4.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "35 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "4"
+      }
+    ]
+  },
+  {
+    "id": "MLB2720691045",
+    "pos": 34,
+    "titulo": "Tapete 4 Pç Borracha/carpete Universal  Borcol Genuíno Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Borcol"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Universal"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "03718731"
+      }
+    ]
+  },
+  {
+    "id": "MLB3976224469",
+    "pos": 35,
+    "titulo": "Roda Strada Nova Até 2025 Aro 15 Na Caixa Fiat Orig 01 Peça. Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Strada"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "0052082072"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "98 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "5.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB2082070300",
+    "pos": 36,
+    "titulo": "Roda De Ferro Aro 15 Ônix Agile Nova Montana Prisma Astra Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Astra"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "789532146479"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "49 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB6201218000",
+    "pos": 37,
+    "titulo": "Jogo Calotas Creta Aro 16 Original Genuína Lançamento Preto/prata",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Creta"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "8975314667"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5034431667",
+    "pos": 38,
+    "titulo": "1 (uma) Calota Geely Ex2 Aro15 Original Genuina Preto/prata",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Geely"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "GC2"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "6608390966"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2853948549",
+    "pos": 39,
+    "titulo": "Roda Ferro Toro Fiat Orig Aro 16 Tirada Carro Zero 1 Unidad Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Toro"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "789531367"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "110 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3456002906",
+    "pos": 40,
+    "titulo": "1 Calota Etios Original Genuína Aro 14 Pintada Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Etios"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "426020d350"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4338066870",
+    "pos": 41,
+    "titulo": "Roda Ferro Hb20 Aro15 Original Genuína Perfeito Estado 1 Pç Preto",
+    "status": "under_review",
+    "sub_status": [
+      "forbidden"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "HB20"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "5.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "46 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4128652584",
+    "pos": 42,
+    "titulo": "1 Calota Civic Original Genuína Honda Aro14 96/00 Bom Estado Cinza",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Civic G6"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "44733s01a00"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4379905445",
+    "pos": 43,
+    "titulo": "Jogo De Calotas Topic/besta Aro 14 6 Furos Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Kia / Asia"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Besta"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "900293"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4023690200",
+    "pos": 44,
+    "titulo": "Calota Honda Fit/city Aro 15 Original Genuína 1 Unidade  Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Fit"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "44733"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2083419443",
+    "pos": 45,
+    "titulo": "1 Roda De Ferro Original Genuína Honda City/fit Aro 15 4x100 Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Fit"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "789754256u667"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "5.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "45 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4090829234",
+    "pos": 46,
+    "titulo": "1 Roda Fusca Aro15 Original Estampado Vw Fumagalli 71/96 Prateado",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Brasília"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "79986434566"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "130 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "4.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "34 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB6631665080",
+    "pos": 47,
+    "titulo": "Leves Riscos 1 Roda Liga Leve Jeep Compass Orig Aro 18 Preta E Prata",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Jeep Compass"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Compass"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "Crrr1007"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "18 \""
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3384602833",
+    "pos": 48,
+    "titulo": "1 Roda Ferro Aro15 Peugeot Like 22/23 Original Genuína 0 Km Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Peugeot"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "208"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "9838273377"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "108 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "25 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4607523873",
+    "pos": 49,
+    "titulo": "1 Calota Original C3 Feel/aircross/basalt Aro 16 (1 Peça) Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Citroën"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "CRT0571"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5194604398",
+    "pos": 50,
+    "titulo": "1 Roda De Ferro Original Genuina Honda Hrv Aro 17 Nova Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "HR-V"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "0000007897900"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "17 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "114.3 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "7.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "55 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3741599394",
+    "pos": 51,
+    "titulo": "Calota Toyota Corolla 2010 Aro 15 Original Genuína 1 Unidade Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "A105A"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4567987152",
+    "pos": 52,
+    "titulo": "Jogo Calotas Mobi Cor Grafite Aro 14 Original Genuína Fiat Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Mobi"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "45f4225g"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB3860919210",
+    "pos": 53,
+    "titulo": "1(uma) Calota Aro 16 Creta Origina Genuína Hyundai C/riscos Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Creta"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "CW16"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB3467525932",
+    "pos": 54,
+    "titulo": "Jogo Tapete Up Borcol Genuíno. Borracha Raridade Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Up!"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "01112121"
+      }
+    ]
+  },
+  {
+    "id": "MLB3671994797",
+    "pos": 55,
+    "titulo": "1 Roda Pampa/del Rey/belina/corcel Aro 14 Original Usada Boa Cinza",
+    "sucesso": false,
+    "erro": "PUT /items/MLB3671994797 -> 400: {'cause': [{'department': 'items', 'cause_id': 247, 'type': 'error', 'code': 'item.attributes.not_modifiable', 'references': ['attributes'], 'message': 'attributes is not modifiable.'}], 'message': 'Cannot update item MLB3671994797 [status:inactive, has_bids:true]', 'error': 'validation_error', 'status': 400}",
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Ford"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corcel"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "108 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "4.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "35 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3793843717",
+    "pos": 56,
+    "titulo": "Roda De Ferro Onix 2021/24 Aro 15 1 Peça  (ver Fotos) Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Onix"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "26232598/527068107A"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB5938662068",
+    "pos": 57,
+    "titulo": "Jogo Calotas Kicks Aro 16 Original Black Piano Lançamento Preto Black Piano",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Nissan"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kicks"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "62403155"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB7266296974",
+    "pos": 58,
+    "titulo": "1 (uma) Roda Oroch Captur Duster Fluence Aro 16 Orig Renault Prata",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Duster"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "45632156788"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "114.3 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "50 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4879707340",
+    "pos": 59,
+    "titulo": "Roda Ferro Sandeiro Stepway Orig 1pç Jateado Pintura Nova Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Sandero"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "403002053R"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4230025904",
+    "pos": 60,
+    "titulo": "Jogo Calotas Mobi Aro 14 Original Fiat Bom Estado  Ver Fotos Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Mobi"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "4057"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4214882573",
+    "pos": 61,
+    "titulo": "Jg Calotas Tipo/tempra Origi Época Aro 14 Seminova Pintada Prateado",
+    "sucesso": false,
+    "erro": "PUT /items/MLB4214882573 -> 400: {'cause': [{'department': 'items', 'cause_id': 247, 'type': 'error', 'code': 'item.attributes.not_modifiable', 'references': ['attributes'], 'message': 'attributes is not modifiable.'}], 'message': 'Cannot update item MLB4214882573 [status:closed, has_bids:true]', 'error': 'validation_error', 'status': 400}",
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tipo"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "1130Crr"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2223683372",
+    "pos": 62,
+    "titulo": "Calota Aro14 Fox 05/07 Original Genuina Volkswagen 1 Unid Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Fox"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "5Z060114TCZ31"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4966002001",
+    "pos": 63,
+    "titulo": "Tapete Caçamba Saveiro 03/07 Borcol Genuíno 86cmx130cm Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Gol"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "011122150"
+      }
+    ]
+  },
+  {
+    "id": "MLB4665596997",
+    "pos": 64,
+    "titulo": "Jogo Calotas Tracker 2026 Aro 17 Grafite Original Genuina Grafite",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Tracker"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "CN 52168687"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "17 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4432467849",
+    "pos": 65,
+    "titulo": "01 Roda Ferro Kicks Original Aro 16 Com Detalhe. Ver Fotos. Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Nissan"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kicks"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "789753146678"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "40 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3698429801",
+    "pos": 66,
+    "titulo": "1 (uma) Calota Honda Fit Aro14 Original Genuína Bom Estado Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Fit"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "PA625CMK -44733-SAD"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB6694166598",
+    "pos": 67,
+    "titulo": "1 (uma) Calota Corolla Aro 16 Original Genuína Prata",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "4260202480"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2665992629",
+    "pos": 68,
+    "titulo": "Bom Estado Calota Aro14 Hb20 12/19 Original Genuína Unidade Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "HB20"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52960-IS000"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5886414494",
+    "pos": 69,
+    "titulo": "Jogo Tapetes F.1000 Borcol 92/98 2peças Motorist/passageiro Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Ford"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "F-1000"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "01313161"
+      }
+    ]
+  },
+  {
+    "id": "MLB4702734065",
+    "pos": 70,
+    "titulo": "1 Roda Ferro Corolla Original Aro 16 Tirada De Carro Zero Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "010789642246"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3507845463",
+    "pos": 71,
+    "titulo": "Jogo Calotas Do Marea Aro 15 Paralelas (raridade) 4 Unidades Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Marea"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "15763"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2903300107",
+    "pos": 72,
+    "titulo": "Tapete Caçamba S10 Borcol Genuíno Borracha 95/2012 Raridade  Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Borcol"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "01213250"
+      }
+    ]
+  },
+  {
+    "id": "MLB3337950516",
+    "pos": 73,
+    "titulo": "1 (uma) Calota Aro 14 Peugeot 207 Orig. Genuína Encaixe Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Peugeot"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "208"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "9682290480"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB1927567690",
+    "pos": 74,
+    "titulo": "1 (uma) Calota Original Genuína Toyota Aro 15 Yaris Cinza",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Yaris"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "42602 - 0D370"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4341412989",
+    "pos": 75,
+    "titulo": "Jg Calotas T Cross Aro16 Prata/preta Originais (lançamento) Prata/preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "T-Cross"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "2GT601147Z31"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB3347485385",
+    "pos": 76,
+    "titulo": "1 (uma) Calota Peugeot Like 2022/23 Aro 15 Original Genuína. Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Peugeot"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "208"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "9829717877"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5501215162",
+    "pos": 77,
+    "titulo": "1 (uma) Roda Ferro Brasilia Aro 14 Orig Genuina Borlen 1163 Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Brasília"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "18925"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "130 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "4.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "34 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3718018001",
+    "pos": 78,
+    "titulo": "Com Riscos/ralado Jogo Calotas Originais Hyundai Hb20 Aro15 Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "HB20"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "789644y667i"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2719855930",
+    "pos": 79,
+    "titulo": "Jg Tapetes Punto/línea Borcol Legítimo Desde 1966 Preto 4 Pç Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Punto"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "01414411"
+      }
+    ]
+  },
+  {
+    "id": "MLB5235288684",
+    "pos": 80,
+    "titulo": "Jogo Calotas Sant/par/golf/sav Original Aro 14 Prateado",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Gol"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "789tt6u"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB6263913054",
+    "pos": 81,
+    "titulo": "Jg Calotas Creta Grafite Aro 16 Original Genuína Lançamento Grafite",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Creta"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52960A0000"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2801088411",
+    "pos": 82,
+    "titulo": "1 (uma) Roda Ferro Peugeot Aro 16  Allure Original Genuína Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Peugeot"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "208"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "9681196680"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "108 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "25 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4071361230",
+    "pos": 83,
+    "titulo": "Roda Ferro Citroen Cactus Aro 16 Orig Genuína  ( 1 Un) Preto",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Citroën"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "C4 Cactus"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "7898532256"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "108 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "20 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4812087278",
+    "pos": 84,
+    "titulo": "Roda De Ferro Saveiro Robust Aro 15 Genuína Vw (1 Unidade )",
+    "status": "paused",
+    "sub_status": [
+      "paused_by_seller"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Gol"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "38 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4140952410",
+    "pos": 85,
+    "titulo": "(1) Uma Calota Honda Fit/city 2010/ Aro15 Original Genuína Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Fit"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "Pa66md16"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4954069153",
+    "pos": 86,
+    "titulo": "1 (uma) Roda Oroch Captur Duster Fluence Aro 16 Orig Renault Preta",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Duster"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "45632156788"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "114.3 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "5"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "50 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB3077506491",
+    "pos": 87,
+    "titulo": "1 Calota Original Ford Ka Novo 2015/20 Aro 14 Bom Estado Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Ford"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Ka"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "J7BC1130DA"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB3472098688",
+    "pos": 88,
+    "titulo": "1 (uma) Calota Gol Voy/sav G6g7 Original Volkswagen Aro 15. Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Gol"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "5U0601147AA"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2604613188",
+    "pos": 89,
+    "titulo": "1 Roda Ferro Aro 15 Original Genuína Hyundai Hb20 2012/2020 Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Hyundai"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "HB20"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "7896531455457"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "5.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "46 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4679367432",
+    "pos": 90,
+    "titulo": "1 (uma) Calota Etios Aro 14 Original Genuína Bom Estado Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Etios"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "4260252670"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB1927555214",
+    "pos": 91,
+    "titulo": "1 (uma) Calota Original Etios Aro 14 - 1 Unidade Cinza",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Etios"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "426020d350"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB3348946570",
+    "pos": 92,
+    "titulo": "Com Risco Calota Corolla Aro 14 Original Genuína Toyota 1 Un Prateado",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Toyota"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Corolla"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "4260202190"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5874154090",
+    "pos": 93,
+    "titulo": "Jg Calotas Strada Grafite Aro 15 Original Fiat Genuína Grafite",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Strada"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "100253608"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB4987814511",
+    "pos": 94,
+    "titulo": "Com Detalhe 1 (uma) Calota Kardian Aro 16 Original Renault Preta/preta",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kardian"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "403150233R"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB2790019874",
+    "pos": 95,
+    "titulo": "Calota Peugeot Mod. 2008 Original Genuína 2015/2020 (1 Peça) Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Peugeot"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "2008"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "96.786.810.77"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB6696771714",
+    "pos": 96,
+    "titulo": "Semi Nova Roda Ferro L 200 Original Aro16 Outdoor/savana Grafite",
+    "sucesso": false,
+    "erro": "PUT /items/MLB6696771714 -> 400: {'cause': [{'department': 'items', 'cause_id': 247, 'type': 'error', 'code': 'item.attributes.not_modifiable', 'references': ['attributes'], 'message': 'attributes is not modifiable.'}], 'message': 'Cannot update item MLB6696771714 [status:closed, has_bids:true]', 'error': 'validation_error', 'status': 400}",
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Honda"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Fit"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "CA310120"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "16 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "5.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "45 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4111309889",
+    "pos": 97,
+    "titulo": "Jogo Tapetes 4 Pçs Borcol Grupo A Genuino De Época Relíquia. Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Up!"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "Grupo A"
+      }
+    ]
+  },
+  {
+    "id": "MLB3587293723",
+    "pos": 98,
+    "titulo": "Roda Ferro Onix Aro 14 2019até 2023 Original Genuína Gm 1 Pç Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Onix"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4379609032",
+    "pos": 99,
+    "titulo": "1 Roda Ferro Onix/prisma2013/16 Aro15 Tirada Carro Zero Orig",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Onix"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "Roda"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "39 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4932009626",
+    "pos": 100,
+    "titulo": "Roda Chevrolet Black Plate Astra 00/ Agile 10/montana/15' 4ag Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Astra"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "52027611"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "15 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "4"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "6.0 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "49 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB2072031670",
+    "pos": 101,
+    "titulo": "Bom Estado 1 Calota Fiat Mobi Aro14 Original Genuina 17/20.",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Fiat"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Mobi"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "01002333338"
+      },
+      {
+        "id": "WHEEL_COVER_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "CAR_WHEEL_COVER_TYPE",
+        "value_name": "Completa"
+      },
+      {
+        "id": "MATERIAL",
+        "value_name": "Plástico ABS"
+      }
+    ]
+  },
+  {
+    "id": "MLB5402782912",
+    "pos": 102,
+    "titulo": "Par Quebra Sol Polo 2003 Em Diante C/ Espelho Cinza",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Volkswagen"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Polo"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "NT3200CVW - NT321001VW"
+      }
+    ]
+  },
+  {
+    "id": "MLB7328866322",
+    "pos": 103,
+    "titulo": "Roda Aro 14'' Ferro Renault Kwid 2016 A 2021 Cor Preto",
+    "status": "active",
+    "sub_status": [],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Renault"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Kwid"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "403002664R"
+      },
+      {
+        "id": "RIM_DIAMETER",
+        "value_name": "14 \""
+      },
+      {
+        "id": "DISTANCE_BETWEEN_HOLES",
+        "value_name": "100 mm"
+      },
+      {
+        "id": "HOLES_NUMBER",
+        "value_name": "3"
+      },
+      {
+        "id": "RIM_WIDTH",
+        "value_name": "4.5 \""
+      },
+      {
+        "id": "OFFSET",
+        "value_name": "38 mm"
+      },
+      {
+        "id": "RIM_MATERIAL",
+        "value_name": "Aço"
+      },
+      {
+        "id": "RIMS_NUMBER",
+        "value_name": "1"
+      }
+    ]
+  },
+  {
+    "id": "MLB4413654187",
+    "pos": 104,
+    "titulo": "Spoiler Dianteiro Tg Poli Vectra Gl/gls 97/99 Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Chevrolet"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Vectra GL"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "35095-p"
+      }
+    ]
+  },
+  {
+    "id": "MLB6158415682",
+    "pos": 105,
+    "titulo": "Spoiler Dianteiro Tg Poli Sport-flex Escort Hobby Preto Preto",
+    "status": "paused",
+    "sub_status": [
+      "out_of_stock"
+    ],
+    "sucesso": true,
+    "atributos_enviados": [
+      {
+        "id": "BRAND",
+        "value_name": "Ford"
+      },
+      {
+        "id": "MODEL",
+        "value_name": "Escort Hobby"
+      },
+      {
+        "id": "PART_NUMBER",
+        "value_name": "01073-p"
+      }
+    ]
+  }
+]
