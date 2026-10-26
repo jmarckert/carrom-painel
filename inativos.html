@@ -62,19 +62,107 @@ p.sub { color: var(--muted); font-size: 14px; }
 .kpi-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; font-weight: 600; }
 .kpi-sub { font-size: 12px; color: var(--muted); margin-top: 2px; }
 
+/* Toolbar & Sticky Filter Bar */
 .toolbar {
-  position: sticky; top: 10px; z-index: 50;
+  position: sticky; top: 10px; z-index: 100;
   background: var(--surface); border: 1px solid var(--line);
-  padding: 14px 18px; border-radius: 10px; margin-bottom: 18px;
-  box-shadow: 0 4px 12px rgba(15,23,42,0.06);
-  display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between;
+  padding: 12px 18px; border-radius: 12px; margin-bottom: 18px;
+  box-shadow: 0 4px 14px rgba(15,23,42,0.06);
+  transition: padding 0.2s ease, top 0.2s ease, box-shadow 0.2s ease, border-radius 0.2s ease;
 }
-.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; flex: 1; }
-input[type="search"], select {
-  padding: 8px 12px; border: 1px solid var(--line); border-radius: 6px;
+.toolbar.toolbar--compact {
+  top: 0;
+  border-radius: 0 0 12px 12px;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 6px 20px rgba(15,23,42,0.12);
+}
+.toolbar-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 10px; flex-wrap: wrap;
+}
+.toolbar-left {
+  display: flex; align-items: center; gap: 8px; flex: 1; min-width: 260px;
+}
+.toolbar-right {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+}
+.toolbar-search {
+  flex: 1; min-width: 180px; max-width: 360px;
+  padding: 7px 12px; border: 1px solid var(--line); border-radius: 6px;
+  font-size: 13px; font-family: inherit; background: #fff; color: var(--fg);
+  transition: 0.15s;
+}
+.toolbar-search:focus {
+  border-color: var(--primary); outline: none; box-shadow: 0 0 0 2px rgba(37,99,235,0.15);
+}
+.btn-hamburger {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: #f1f5f9; border: 1px solid #cbd5e1; color: #1e293b;
+  font-weight: 600; font-size: 13px; padding: 7px 12px; border-radius: 6px;
+  cursor: pointer; transition: 0.15s; user-select: none;
+}
+.btn-hamburger:hover { background: #e2e8f0; border-color: #94a3b8; color: #0f172a; }
+.btn-hamburger.is-active { background: #dbeafe; border-color: #3b82f6; color: #1d4ed8; }
+.filter-badge {
+  background: var(--primary); color: #fff; font-size: 11px; font-weight: 700;
+  padding: 1px 6px; border-radius: 10px; min-width: 18px; text-align: center;
+}
+.toolbar-counter-mini {
+  font-size: 12px; color: var(--muted); font-weight: 600; white-space: nowrap;
+}
+.toolbar-drawer {
+  margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--line);
+  transition: all 0.2s ease;
+}
+/* No modo scrollado compacto, o drawer vira um popover suspenso flutuante */
+.toolbar.toolbar--compact .toolbar-drawer {
+  display: none;
+  position: absolute; top: calc(100% + 4px); left: 0; right: 0;
+  margin-top: 0; background: #ffffff; border: 1px solid var(--line);
+  border-radius: 12px; padding: 16px 20px;
+  box-shadow: 0 16px 36px rgba(15,23,42,0.18); z-index: 150;
+}
+.toolbar.toolbar--compact .toolbar-drawer.is-open {
+  display: block;
+  animation: fadeInDown 0.15s ease-out;
+}
+/* No modo normal (topo), permite colapsar manualmente se clicar */
+.toolbar:not(.toolbar--compact) .toolbar-drawer.is-closed {
+  display: none;
+}
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.drawer-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #f1f5f9;
+}
+.drawer-header-title {
+  font-size: 13px; font-weight: 700; color: #334155;
+  display: flex; align-items: center; gap: 6px;
+}
+.filters-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px;
+}
+.filters-grid select {
+  width: 100%; padding: 8px 12px; border: 1px solid var(--line); border-radius: 6px;
   font-size: 13px; font-family: inherit; background: #fff; color: var(--fg);
 }
-input[type="search"] { min-width: 250px; }
+.btn-text-action {
+  background: none; border: none; color: var(--primary); font-size: 12px;
+  font-weight: 600; cursor: pointer; padding: 4px 8px; border-radius: 4px;
+}
+.btn-text-action:hover { background: var(--primary-light); }
+.btn-close-drawer {
+  background: #f1f5f9; border: 1px solid var(--line); color: var(--muted);
+  font-size: 11px; font-weight: 700; cursor: pointer; padding: 4px 8px; border-radius: 4px;
+}
+.btn-close-drawer:hover { background: #e2e8f0; color: var(--fg); }
+.btn-sm { padding: 6px 10px; font-size: 12px; }
+
 .btn {
   padding: 8px 14px; border-radius: 6px; font-size: 13px; font-weight: 600;
   cursor: pointer; border: 1px solid transparent; transition: 0.15s;
@@ -240,52 +328,75 @@ textarea.export-area {
     </div>
   </header>
 
-  <div class="toolbar">
-    <div class="filters">
-      <input type="search" id="fSearch" placeholder="Buscar por ID MLB, título, veículo, aro, PN...">
-      <select id="fFamilia">
-        <option value="">Todas as Famílias (200)</option>
-        <option value="Rodas">Rodas (61)</option>
-        <option value="Calotas">Calotas (70)</option>
-        <option value="Autopeças">Autopeças e Acessórios (69)</option>
-      </select>
-      <select id="fCompensa">
-        <option value="">Todos os Vereditos (200)</option>
-        <option value="sim">✅ Compensa Colocar no Ar (179)</option>
-        <option value="nao">⛔ Não Compensa / Duplicado Ativo (21)</option>
-      </select>
-      <select id="fDecisao">
-        <option value="">Todas as Classificações</option>
-        <option value="criar_novo_recomendado">Criar Novo Recomendado (Antigo Bloqueado)</option>
-        <option value="corrigir_atual_ou_novo">Corrigir Atual ou Usar Novo Criado</option>
-        <option value="atencao_duplicidade_ativo">Atenção: Possível Similar Ativo</option>
-        <option value="atencao_dimensao_me2">Atenção: Dimensão Próxima a 100cm</option>
-        <option value="inviavel_me2_jogo_pesado">Inviável ME2 (> 30kg Jogo 4 Rodas)</option>
-      </select>
-      <select id="fPausadoVend">
-        <option value="">Origem da Pausa (Todas)</option>
-        <option value="sim">⚠️ Pausado pelo Vendedor (Conferir Galpão)</option>
-        <option value="nao">Pausado/Bloqueado pelo ML</option>
-      </select>
-      <select id="fCheck">
-        <option value="">Status do Meu Check (Todos)</option>
-        <option value="checked">☑️ Aprovados (Ativar Cópia)</option>
-        <option value="edited">✏️ Marquei "Editei o Atual"</option>
-        <option value="unchecked">⬜ Pendentes de Avaliação</option>
-      </select>
-      <select id="fSort">
-        <option value="padrao">Ordenação: Padrão (Família)</option>
-        <option value="vendas_desc">Maior Histórico de Vendas</option>
-        <option value="valor_desc">Maior Valor em Estoque (R$)</option>
-        <option value="preco_desc">Maior Preço Unitário</option>
-        <option value="preco_asc">Menor Preço Unitário</option>
-        <option value="estoque_desc">Maior Quantidade em Estoque</option>
-      </select>
+  <div class="toolbar" id="mainToolbar">
+    <div class="toolbar-bar">
+      <div class="toolbar-left">
+        <button type="button" class="btn-hamburger" id="btnToggleFilters" onclick="toggleFiltersMenu()" title="Abrir filtros e ordenação">
+          <span style="font-size:15px; line-height:1;">☰</span>
+          <span>Filtros</span>
+          <span class="filter-badge" id="filterBadge" style="display:none;">0</span>
+        </button>
+        <input type="search" id="fSearch" class="toolbar-search" placeholder="Buscar por ID MLB, título, veículo, aro, PN...">
+        <span class="toolbar-counter-mini" id="showingCounterMini">200 / 200</span>
+      </div>
+      <div class="toolbar-right">
+        <button type="button" class="btn btn-outline btn-sm" onclick="toggleSelectVisible(true)">Marcar Visíveis</button>
+        <button type="button" class="btn btn-outline btn-sm" onclick="toggleSelectVisible(false)">Desmarcar Visíveis</button>
+        <button type="button" class="btn btn-success btn-sm" onclick="openExportModal()">Exportar Aprovados (<span id="btnExportCount">0</span>)</button>
+      </div>
     </div>
-    <div style="display:flex; gap:8px; flex-wrap:wrap;">
-      <button class="btn btn-outline" onclick="toggleSelectVisible(true)">Marcar Visíveis</button>
-      <button class="btn btn-outline" onclick="toggleSelectVisible(false)">Desmarcar Visíveis</button>
-      <button class="btn btn-success" onclick="openExportModal()">Exportar Aprovados p/ Colocar no Ar (<span id="btnExportCount">0</span>)</button>
+
+    <!-- Drawer de filtros retrátil -->
+    <div class="toolbar-drawer" id="filtersDrawer">
+      <div class="drawer-header">
+        <div class="drawer-header-title">
+          <span>⚙️ Filtros Avançados e Ordenação</span>
+        </div>
+        <div style="display:flex; gap:8px; align-items:center;">
+          <button type="button" class="btn-text-action" id="btnClearFilters" onclick="clearAllFilters()" style="display:none;">↺ Limpar Filtros</button>
+          <button type="button" class="btn-close-drawer" onclick="closeFiltersMenu()" title="Fechar painel de filtros">✕ Fechar</button>
+        </div>
+      </div>
+      <div class="filters-grid">
+        <select id="fFamilia">
+          <option value="">Todas as Famílias (200)</option>
+          <option value="Rodas">Rodas (61)</option>
+          <option value="Calotas">Calotas (70)</option>
+          <option value="Autopeças">Autopeças e Acessórios (69)</option>
+        </select>
+        <select id="fCompensa">
+          <option value="">Todos os Vereditos (200)</option>
+          <option value="sim">✅ Compensa Colocar no Ar (179)</option>
+          <option value="nao">⛔ Não Compensa / Duplicado Ativo (21)</option>
+        </select>
+        <select id="fDecisao">
+          <option value="">Todas as Classificações</option>
+          <option value="criar_novo_recomendado">Criar Novo Recomendado (Antigo Bloqueado)</option>
+          <option value="corrigir_atual_ou_novo">Corrigir Atual ou Usar Novo Criado</option>
+          <option value="atencao_duplicidade_ativo">Atenção: Possível Similar Ativo</option>
+          <option value="atencao_dimensao_me2">Atenção: Dimensão Próxima a 100cm</option>
+          <option value="inviavel_me2_jogo_pesado">Inviável ME2 (> 30kg Jogo 4 Rodas)</option>
+        </select>
+        <select id="fPausadoVend">
+          <option value="">Origem da Pausa (Todas)</option>
+          <option value="sim">⚠️ Pausado pelo Vendedor (Conferir Galpão)</option>
+          <option value="nao">Pausado/Bloqueado pelo ML</option>
+        </select>
+        <select id="fCheck">
+          <option value="">Status do Meu Check (Todos)</option>
+          <option value="checked">☑️ Aprovados (Ativar Cópia)</option>
+          <option value="edited">✏️ Marquei "Editei o Atual"</option>
+          <option value="unchecked">⬜ Pendentes de Avaliação</option>
+        </select>
+        <select id="fSort">
+          <option value="padrao">Ordenação: Padrão (Família)</option>
+          <option value="vendas_desc">Maior Histórico de Vendas</option>
+          <option value="valor_desc">Maior Valor em Estoque (R$)</option>
+          <option value="preco_desc">Maior Preço Unitário</option>
+          <option value="preco_asc">Menor Preço Unitário</option>
+          <option value="estoque_desc">Maior Quantidade em Estoque</option>
+        </select>
+      </div>
     </div>
   </div>
 
@@ -487,6 +598,9 @@ function getFilteredItems() {
 function renderCards() {
   const list = getFilteredItems();
   document.getElementById('showingCounter').textContent = `Exibindo ${list.length} de ${ITEMS.length} anúncios`;
+  const miniCounter = document.getElementById('showingCounterMini');
+  if (miniCounter) miniCounter.textContent = `${list.length} / ${ITEMS.length}`;
+  updateFilterBadge();
   const container = document.getElementById('cardsContainer');
 
   container.innerHTML = list.map(it => {
@@ -649,6 +763,103 @@ function downloadApprovedJson() {
   document.getElementById(id).addEventListener('input', renderCards);
   document.getElementById(id).addEventListener('change', renderCards);
 });
+
+// Controle do Menu Hambúrguer e Comportamento Retrátil no Scroll
+let isDrawerOpen = false;
+
+function toggleFiltersMenu() {
+  const drawer = document.getElementById('filtersDrawer');
+  const btn = document.getElementById('btnToggleFilters');
+  const toolbar = document.getElementById('mainToolbar');
+  isDrawerOpen = !isDrawerOpen;
+  
+  if (toolbar.classList.contains('toolbar--compact')) {
+    drawer.classList.toggle('is-open', isDrawerOpen);
+  } else {
+    drawer.classList.toggle('is-closed', !isDrawerOpen);
+  }
+  btn.classList.toggle('is-active', isDrawerOpen);
+}
+
+function closeFiltersMenu() {
+  isDrawerOpen = false;
+  const drawer = document.getElementById('filtersDrawer');
+  const btn = document.getElementById('btnToggleFilters');
+  const toolbar = document.getElementById('mainToolbar');
+  if (drawer) {
+    drawer.classList.remove('is-open');
+    if (!toolbar.classList.contains('toolbar--compact')) {
+      drawer.classList.remove('is-closed');
+    }
+  }
+  if (btn) btn.classList.remove('is-active');
+}
+
+function clearAllFilters() {
+  document.getElementById('fSearch').value = '';
+  document.getElementById('fFamilia').value = '';
+  document.getElementById('fCompensa').value = '';
+  document.getElementById('fDecisao').value = '';
+  document.getElementById('fPausadoVend').value = '';
+  document.getElementById('fCheck').value = '';
+  document.getElementById('fSort').value = 'padrao';
+  renderCards();
+}
+
+function updateFilterBadge() {
+  let count = 0;
+  if (document.getElementById('fFamilia').value) count++;
+  if (document.getElementById('fCompensa').value) count++;
+  if (document.getElementById('fDecisao').value) count++;
+  if (document.getElementById('fPausadoVend').value) count++;
+  if (document.getElementById('fCheck').value) count++;
+  if (document.getElementById('fSort').value !== 'padrao') count++;
+
+  const badge = document.getElementById('filterBadge');
+  const clearBtn = document.getElementById('btnClearFilters');
+  if (badge) {
+    if (count > 0) {
+      badge.textContent = count;
+      badge.style.display = 'inline-flex';
+    } else {
+      badge.style.display = 'none';
+    }
+  }
+  if (clearBtn) {
+    clearBtn.style.display = (count > 0 || (document.getElementById('fSearch').value || '').trim()) ? 'inline-flex' : 'none';
+  }
+}
+
+// Fechar drawer flutuante ao clicar fora da toolbar
+document.addEventListener('click', (e) => {
+  const toolbar = document.getElementById('mainToolbar');
+  if (toolbar && !toolbar.contains(e.target) && isDrawerOpen) {
+    closeFiltersMenu();
+  }
+});
+
+// Listener de scroll para compactar no topo e fechar o menu flutuante
+let lastScrollY = window.scrollY;
+window.addEventListener('scroll', () => {
+  const toolbar = document.getElementById('mainToolbar');
+  if (!toolbar) return;
+  const isScrolled = window.scrollY > 120;
+  
+  if (isScrolled) {
+    if (!toolbar.classList.contains('toolbar--compact')) {
+      toolbar.classList.add('toolbar--compact');
+      closeFiltersMenu();
+    } else if (isDrawerOpen && Math.abs(window.scrollY - lastScrollY) > 50) {
+      closeFiltersMenu();
+    }
+  } else {
+    if (toolbar.classList.contains('toolbar--compact')) {
+      toolbar.classList.remove('toolbar--compact');
+      closeFiltersMenu();
+    }
+  }
+  lastScrollY = window.scrollY;
+}, { passive: true });
 
 updateCounters();
 renderCards();
